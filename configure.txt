@@ -1,0 +1,5 @@
+hostname = localhost
+database = EreteamAssignment2
+username = postgres
+pwd = HGW272272
+port_id = 5432
