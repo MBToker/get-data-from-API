@@ -1,7 +1,6 @@
 import psycopg2
 import psycopg2.extras
 import pandas as pd
-import pandasql as ps
 
 #Getting configuration data from .txt file
 configuration_values = {}
